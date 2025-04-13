@@ -1,0 +1,6 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,winner,venue,player_of_match
+1,2017,Hyderabad,2017-04-05,RCB,SRH,SRH,field,SRH,Rajiv Gandhi Intl,Yuvraj
+2,2017,Pune,2017-04-06,MI,RPS,MI,bat,RPS,MCA Stadium,Smith
+3,2018,Mumbai,2018-04-07,KKR,RCB,KKR,bat,KKR,Wankhede,Russell
+4,2018,Delhi,2018-04-08,RCB,MI,RCB,field,MI,Kotla,Rohit
+5,2019,Chennai,2019-04-09,CSK,RR,RR,bat,CSK,Chepauk,Dhoni

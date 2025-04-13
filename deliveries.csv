@@ -1,0 +1,6 @@
+match_id,inning,batting_team,bowling_team,batsman,bowler,runs
+1,1,RCB,SRH,Kohli,Bhuvi,6
+1,2,SRH,RCB,Dhawan,Aravind,4
+2,1,MI,RPS,Rohit,Zampa,2
+2,2,RPS,MI,Smith,Malinga,1
+3,1,KKR,RCB,Russell,Chahal,6
